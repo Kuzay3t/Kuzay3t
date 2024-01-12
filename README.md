@@ -1,5 +1,15 @@
 ### Hi there 👋
+My name is Glory. I am second year student at the Federal University of Technology Minna, majoring in Mechatronics Engineering.
+I have huge interest in
+- Embedded Systems
+- Microcontrollers
+- Artificial Intelligence
+- Machine Learning
+- Robotics
 
+Currently learning about electronics and embedded systems using Arduino. Participant and Technovation '23 Regional Winner Africa.
+
+I love to explore anything hardware and open to new ideas!
 <!--
 **Kuzay3t/Kuzay3t** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
