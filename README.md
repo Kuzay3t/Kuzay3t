@@ -9,8 +9,6 @@ I'm at the project-based learning phase, building quality stuff to solidify my s
 
 📫 How to reach me: bagaiglory@gmail.com
 
-I love to explore anything hardware and open to new ideas!
-
 😄 Pronouns:she/her
 
 ⚡ Fun fact: I love good food! Emphasis on good!!
