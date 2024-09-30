@@ -12,6 +12,9 @@ I'm at the project-based learning phase, building quality stuff to solidify my s
 😄 Pronouns:she/her
 
 ⚡ Fun fact: I love good food! Emphasis on good!!
+
+Asides tech I'm a ghostwriter, public speaker, ardent volunteer, STEM education enthusiast and advocate.
+Thanks for stopping by🌱!
 <!--
 **Kuzay3t/Kuzay3t** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
