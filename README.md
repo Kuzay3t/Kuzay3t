@@ -27,7 +27,7 @@
 
 ###
 
-<p align="left">I'm Glory from Lagos, Nigeria.<br><br>- 🔭 I’m working as a Python Developer and Intern.<br>- 📚 I'm currently learning Random Forest Classification and Linear Regression.<br>- ⚡ In my free time I read books and watch documentaries.</p>
+<p align="left">I'm Glory from Lagos, Nigeria.<br><br>- 🔭 I’m working as a Python Developer and Machine Learning Intern.<br>- 📚 I'm currently learning Random Forest Classification and Linear Regression under Supervised Learning.<br>- ⚡ In my free time I read books and watch documentaries.</p>
 
 ###
 
