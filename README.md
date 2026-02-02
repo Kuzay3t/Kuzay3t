@@ -68,18 +68,6 @@ My research interests and skills are **actively evolving** as I explore robotics
 
 ---
 
-## 🛠 Tools & Languages
-![My Skills](https://skillicons.dev/icons?i=python,matlab,cpp,linux,git,github,tensorflow,pytorch,arduino)
-
----
-
-## 📌 Notes
-- This GitHub documents my learning, experimentation, and research-oriented projects  
-- Repositories include simulations, control systems work, robotics experiments, and applied programming  
-- My interests are actively evolving as I grow as a researcher  
-
----
-
 ## 🌐 Connect with Me
 - LinkedIn: https://linkedin.com/in/glory-bagai  
 - Email: bagaiglory@gmail.com
