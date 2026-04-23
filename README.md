@@ -1,6 +1,6 @@
 # Hi, I’m Glory 👋
 
-🎓 Mechatronics Engineering undergraduate | 🤖 Researcher in Autonomous Systems & Embedded AI 
+🎓 Mechatronics Engineering undergraduate | 🤖 Researcher in Intelligent Systems Under Resource Constain 
 📍 Nigeria  
 
 I am an undergraduate researcher focused on **intelligent autonomous systems under resource constraints**. My work bridges **practical engineering** and **applied AI**, aiming to design systems that **adapt efficiently and robustly in complex, dynamic environments**.  
@@ -9,7 +9,6 @@ I am an undergraduate researcher focused on **intelligent autonomous systems und
 
 ## 🔭 Current Focus
 - Design, control, and learning of autonomous systems  
-- Adaptive and intelligent control systems (real-time behavior adjustment, reinforcement learning)  
 - Resource- and compute-efficient AI for robotics and embedded systems (TinyML, parameter-efficient fine-tuning, model compression)  
 - Sim-to-real system testing: from simulation to real hardware deployment  
 - Research skill development, academic writing, and reproducible experimentation  
@@ -29,14 +28,9 @@ My research focuses on **behavioral adaptation and efficient computation under r
 3. **Parameter-Efficient Fine-Tuning**  
    - Adapting large models to new tasks with minimal computation using LoRA, adapters, and prompt/prefix tuning.  
 
-4. **Behavioral Specialization & Context Adaptation**  
-   - Systems that change behavior based on environmental or task-specific constraints.  
-
-5. **Efficiency under Constraints**  
+4. **Efficiency under Constraints**  
    - Optimizing compute, memory, energy, and latency for real-world autonomous systems.  
 
-6. **Sim-to-Real Transfer**  
-   - Developing and testing systems in simulation before deployment on real hardware to ensure robust adaptation.  
 
 ---
 
