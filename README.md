@@ -1,6 +1,6 @@
 # Hi, I’m Glory 👋
 
-🎓 Mechatronics Engineering undergraduate | 🤖 Researcher in Intelligent Systems Under Resource Constain 
+🎓 Mechatronics Engineering undergraduate | 🤖 Researcher in Intelligent Systems Under Resource Constrain 
 📍 Nigeria  
 
 I am an undergraduate researcher focused on **intelligent autonomous systems under resource constraints**. My work bridges **practical engineering** and **applied AI**, aiming to design systems that **adapt efficiently and robustly in complex, dynamic environments**.  
